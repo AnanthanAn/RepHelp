@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.ananthan.rephelp.MainActivity">
+    <item
+        android:id="@+id/nstudent"
+        android:title="Add New Student" />
+    <item
+        android:id="@+id/infoStudent"
+        android:title="View Students" />
+    <item
+        android:id="@+id/credits"
+        android:title="Credits" />
+</menu>
